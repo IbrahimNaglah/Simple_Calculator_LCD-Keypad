@@ -1,4 +1,3 @@
-#define F_CPU 8000000UL
 
 #include "STD_types.h"
 #include "DIO_int.h"
