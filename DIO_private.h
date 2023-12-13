@@ -1,10 +1,3 @@
-/*
- * IncFile1.h
- *
- * Created: 11/8/2023 3:51:32 AM
- *  Author: HP
- */ 
-
 
 #ifndef DIO_PRIVATE_H_
 #define DIO_PRIVATE_H_
